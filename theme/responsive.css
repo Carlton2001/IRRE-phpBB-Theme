@@ -497,6 +497,10 @@
 		max-height: 32px;
 	}
 
+	.profile-flair {
+		display: none;
+	}
+
 	.has-profile .postbody h3 {
 		margin-left: 0 !important;
 		margin-right: 0 !important;
