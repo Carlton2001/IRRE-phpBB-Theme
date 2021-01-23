@@ -1,16 +1,7 @@
 /*Collapsible Forum Categories*/
 
-.collapse-hide, .collapse-show {
-    border-radius: 10px !important;
-}
-
 .collapse-btn {
-    background-color: #DDD !important;
     margin: -25px 8px 0 0 !important;
-}
-
-.collapse-btn, .collapse-btn:after, .collapse-btn:before {
-    border-color: #395170 !important;
 }
 
 /*Custom css Portail*/
