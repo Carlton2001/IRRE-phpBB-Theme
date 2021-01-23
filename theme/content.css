@@ -418,6 +418,17 @@ dd.option {
 	line-height: 1.4em;
 }
 
+.agreement {
+	font-size: 12px;
+	line-height: 17px;
+	margin-bottom: 10px;
+}
+
+.agreement-text {
+	line-height: 17px;
+	margin-bottom: 10px;
+}
+
 dl.faq {
 	font-size: 1.1em;
 	margin-top: 1em;
@@ -538,7 +549,7 @@ blockquote cite:before, .uncited:before {
 	padding-right: 5px;
 }
 
-blockquote cite > div {
+blockquote cite > span {
 	float: right;
 	font-weight: normal;
 }
