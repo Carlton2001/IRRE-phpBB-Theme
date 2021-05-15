@@ -149,7 +149,7 @@ div.month div.weekdays div.day.this-month
 
 div.month div.weekdays div.day.today.this-month
 {
-	border: 2px solid #aaa;
+	background-color: #6086b8 !important;
 }
 
 div.month div.weekdays div.day div.dayhead
